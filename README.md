@@ -4,7 +4,7 @@
 
 Canonical multi-agent orchestration: decompose work, dependency graphs, parallel tracks, handoffs, and merge. Absorbs Claude Flow / Ruflo / Loki / Ralph / Paperclip / OpenFang patterns into one portable playbook.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `agentic-flow`
 
 ## Install
